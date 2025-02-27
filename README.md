@@ -66,6 +66,6 @@
 ---
 
 ## 🌍 **Let's Connect**
-<a href="https://www.linkedin.com/in/sami-ullah-b10b93300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sami-ullah-%E2%9C%94-data-scientist-b10b93300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
 <a href="https://kaggle.com/samikhan25"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle"></a>
 <a href="mailto:sk2579784@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail"></a>
