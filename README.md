@@ -21,12 +21,12 @@
   2020–2024 
 
 ## 🏆 **Top Projects**
-### **1. IMDB Movie Review Sentiment Analysis** | [Code](https://github.com/SamiUllah568/IMDB-Sentiment-Analysis)
+### **1. IMDB Movie Review Sentiment Analysis** | [Code](https://github.com/SamiUllah568/IMDB_Movies_Reviews_Sentiment_Analysis_Using-Deep-Leaning)
 - Built a **Bidirectional LSTM** model with **Word2Vec embeddings** to classify 50K reviews as positive/negative.
 - Achieved **87% accuracy** and reduced misclassification by 18% using strategic preprocessing (lemmatization, HTML tag removal).
 - Tools: TensorFlow, NLTK, spaCy, Scikit-learn.
 
-### **2. Customer Churn Prediction** | [Code](https://github.com/SamiUllah568/Customer-Churn-Prediction)
+### **2. Customer Churn Prediction** | [Code](https://github.com/SamiUllah568/Customer-Churn-Prediction-using-ANN)
 - Trained an **ANN** with **SMOTE** to handle class imbalance, achieving **89% recall** for churn detection.
 - Impact: Enabled proactive retention strategies, reducing churn by 25% in simulated scenarios.
 - Tools: Keras, Imbalanced-learn, Pandas.
@@ -35,7 +35,7 @@
 - Engineered features (location, BHK) and optimized **XGBoost/Ridge Regression**, achieving **92% R2 score**.
 - Tools: Scikit-learn, Matplotlib.
 
-### **4. Flight Fare Prediction** | [Code](https://github.com/SamiUllah568/Flight-Fare-Prediction)
+### **4. Flight Fare Prediction** | [Code](https://github.com/SamiUllah568/Flight-Fare-Prediction-)
 - Developed a **Random Forest Regressor** model with hyperparameter tuning (GridSearchCV), reducing MAE by **14%**.
 - Tools: Pandas, Seaborn.
 
