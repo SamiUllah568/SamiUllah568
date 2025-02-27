@@ -9,7 +9,7 @@
 ## 🚀 About Me
 - 🔭 **Current Focus:** Advanced Deep Learning (Transformers, BERT) and Productionizing ML Models.
 - 🌟 **Passion:** Building scalable ML solutions for real-world problems, from EDA to deployment.
-- 💬 **Ask Me About:** NLP, Hyperparameter Optimization, or Balancing Imbalanced Datasets.
+- 💬 **Ask Me About:** Machine Leaning, Deep Learning, NLP, Hyperparameter Optimization, or Balancing Imbalanced Datasets.
 - ⚡ **Fun Fact:** I automate repetitive tasks just to see if I can! 🤖
 
 ---
@@ -27,11 +27,11 @@
 
 ### **3. Bengaluru House Price Prediction** | [Code](https://github.com/SamiUllah568/Bengaluru-House-Price-prediction)
 - Engineered features (location, BHK) and optimized **XGBoost/Ridge Regression**, achieving **92% R2 score**.
-- Tools: Scikit-learn, Matplotlib, GeoPandas.
+- Tools: Scikit-learn, Matplotlib.
 
 ### **4. Flight Fare Prediction** | [Code](https://github.com/SamiUllah568/Flight-Fare-Prediction)
 - Developed a **Random Forest Regressor** model with hyperparameter tuning (GridSearchCV), reducing MAE by **14%**.
-- Tools: Pandas, Seaborn, Flask (prototype API).
+- Tools: Pandas, Seaborn.
 
 ---
 
@@ -52,8 +52,6 @@
 
 **Dev & Deployment**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-
 ---
 
 ## 📈 **GitHub Stats**
