@@ -14,6 +14,12 @@
 
 ---
 
+  ## 📚 Education
+
+- **BS in Information Technology**  
+  *Government College University Faisalabad (GCUF)*  
+  2020–2024 
+
 ## 🏆 **Top Projects**
 ### **1. IMDB Movie Review Sentiment Analysis** | [Code](https://github.com/SamiUllah568/IMDB-Sentiment-Analysis)
 - Built a **Bidirectional LSTM** model with **Word2Vec embeddings** to classify 50K reviews as positive/negative.
