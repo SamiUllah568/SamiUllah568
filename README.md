@@ -9,7 +9,7 @@
 
 *Turning raw data into actionable business insights through SQL, Excel, and Power BI.*
 
-<a href="https://samiullah568.pythonanywhere.com">
+<a href="https://samiullah02.pythonanywhere.com">
   <img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/sami-ullah-b10b93300/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
