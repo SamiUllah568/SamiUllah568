@@ -9,7 +9,9 @@
 
 *Turning raw data into actionable business insights through SQL, Excel, and Power BI.*
 
-<a href="https://samiullah568.pythonanywhere.com"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://samiullah568.pythonanywhere.com">
+  <img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
 <a href="https://www.linkedin.com/in/sami-ullah-b10b93300/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/SamiUllah568"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:sk2579784@gmail.com"><img src="https://img.shields.io/badge/Email-8957e5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
