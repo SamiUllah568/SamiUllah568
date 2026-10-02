@@ -1,185 +1,196 @@
-[![MasterHead](https://camo.githubusercontent.com/5a51e293c9f568a66c3ccf3f4eb397c77706120b077be0cabca9f0bd271374dd/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334443132415145536a37322d733567454b672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313632363735333836373131303f653d3231343734383336343726763d6265746126743d4b6637594175775a74794347594c4e63682d4d676335654f432d376837754c5f646e424149677341465251)](https://samiullah568.pythonanywhere.com)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Sami Ullah</h1>
+<!-- Upload your generated banner to assets/hero-banner.png.
+     Temporary fallback until then (replace the img line below with this one):
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Sami%20Ullah&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst&descAlignY=60&descSize=20" alt="Sami Ullah - Data Analyst" width="100%" />
+-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Sami%20Ullah&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Excel%20%7C%20Power%20BI%20%7C%20Python&descAlignY=60&descSize=18" alt="Sami Ullah - Data Analyst banner" width="100%" />
 
-<h3 align="center">Data Analyst | SQL | Microsoft Excel | Python | Machine Learning Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+*Turning raw data into actionable business insights through SQL, Excel, and Power BI.*
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=samiullah568&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<a href="https://samiullah568.pythonanywhere.com"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/sami-ullah-b10b93300/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/SamiUllah568"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:sk2579784@gmail.com"><img src="https://img.shields.io/badge/Email-8957e5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-🌐 **Portfolio:** https://samiullah568.pythonanywhere.com
+</div>
 
----
+<br />
 
-# 🚀 About Me
+## 👤 About Me
 
-- 🎓 BS Information Technology Graduate from Government College University Faisalabad (GCUF).
-- 📊 Passionate about Data Analytics, Business Intelligence, and Data Visualization.
-- 📈 Skilled in SQL, Microsoft Excel, Python, Dashboard Development, and Machine Learning.
-- 🔍 Experienced in Data Cleaning, Exploratory Data Analysis (EDA), KPI Reporting, and Business Reporting.
-- 🌱 Currently learning Power BI, Advanced SQL, and Machine Learning.
-- 💬 Ask me about SQL, Excel, Python, Data Analysis, Dashboards, or Machine Learning.
-- ⚡ I enjoy turning messy datasets into meaningful business insights.
+- 🎓 **BS Information Technology** graduate from Government College University Faisalabad (GCUF)
+- 📊 Hands-on experience with **SQL, Microsoft Excel, Power BI**, and data analysis
+- 🧹 Focused on **data cleaning, dashboard development, and KPI reporting**
+- 🗂️ Background in **data management**, record keeping, and customer service, with strong attention to detail
+- 🧠 Strong analytical and problem-solving skills
+- 🐍 **Python (Pandas, NumPy)** for data work; Machine Learning is an earlier area of interest
 
----
+<br />
 
-# 📚 Education
+## 🎯 Currently Working On
 
-### Bachelor of Science in Information Technology
-**Government College University Faisalabad (GCUF)**
+| | |
+|---|---|
+| 📊 **Advanced SQL** | 📈 **Power BI & DAX** |
+| 📑 **Excel Analytics** | 🧹 **Data Cleaning & Validation** |
+| 🏥 **Hospital Management Analytics** | 📊 **Business Intelligence Dashboards** |
 
-2020 – 2024
+<br />
 
----
+## 🛠️ Technical Skills
 
-# 💼 Featured Projects
+<div align="center">
 
-## 📊 1. Superstore Sales Dashboard (Microsoft Excel)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-f2c811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 
-🔗 **Repository:** [https://github.com/SamiUllah568/Superstore-Sales-Dashboard](https://github.com/SamiUllah568/superstore-sales-dashboard-excel)
+</div>
 
-- Built an interactive sales dashboard using the Kaggle Superstore dataset.
-- Cleaned and transformed raw sales data for accurate reporting.
-- Developed KPIs including Total Sales, Customers, Profit, and Average Delivery Days.
-- Created Pivot Tables, Pivot Charts, Timeline Filters, and Slicers.
-- Analyzed sales performance by Region, Category, Segment, and Shipping Mode.
+| Area | Skills |
+|---|---|
+| **📈 Power BI** | Power BI Desktop, DAX (measures, calculated columns, time intelligence), Power Query, data modeling, star schema, relationships, KPIs, interactive dashboards, slicers, drill-down |
+| **🗄️ SQL & Database** | PostgreSQL, SELECT, WHERE, GROUP BY, ORDER BY, HAVING, JOINs, aggregate functions, subqueries, CTEs, window functions, CASE, COALESCE |
+| **📑 Excel** | Pivot tables, pivot charts, XLOOKUP, VLOOKUP, INDEX-MATCH, IF, SUMIFS, COUNTIFS, conditional formatting, charts, dashboards, slicers |
+| **🧹 Data Analysis** | Data cleaning, transformation, validation, exploratory data analysis, KPI reporting, business reporting, data visualization |
+| **🐍 Python** | Python, Pandas, NumPy |
+| **🧰 Tools** | Microsoft Excel, PostgreSQL, Git, GitHub |
 
-**Tools:** Excel • Pivot Tables • Dashboards • KPI Reporting • Data Visualization
+<br />
 
----
+## 💼 Featured Projects
 
-## 📚 2. Online Book Store Sales Analysis (PostgreSQL)
+### 📈 1. Retail Analytics Dashboard Suite
 
-🔗 **Repository:** [https://github.com/SamiUllah568/Online-BookStore-SQL-Project](https://github.com/SamiUllah568/Online-Book-Store-Sales-Analysis-SQL-)
+**Power BI · DAX · Power Query · Data Modeling**
 
-- Designed a relational database using PostgreSQL.
-- Created normalized Books, Customers, and Orders tables.
-- Developed 20+ SQL business queries.
-- Used JOINs, CTEs, Window Functions, CASE Statements, COALESCE, and Aggregate Functions.
-- Generated insights on sales, revenue, customers, inventory, and best-selling books.
+<table> <tr> <td align="center"> <strong>01 · Sales Performance</strong><br><br> <img src="https://raw.githubusercontent.com/SamiUllah568/Retail-Sales-Customer-Analytics-Power-BI-/main/screenshots/01_sales_performance_dashboard.png" alt="Sales Performance Dashboard" width="100%"> </td> <td align="center"> <strong>02 · Customer Analytics</strong><br><br> <img src="https://raw.githubusercontent.com/SamiUllah568/Retail-Sales-Customer-Analytics-Power-BI-/main/screenshots/02_customer_analytics_dashboard.png" alt="Customer Analytics Dashboard" width="100%"> </td> </tr>
 
-**Tools:** PostgreSQL • SQL • Database Design • Data Analysis
+<tr> <td align="center"> <strong>03 · Product Performance</strong><br><br> <img src="https://raw.githubusercontent.com/SamiUllah568/Retail-Sales-Customer-Analytics-Power-BI-/main/screenshots/03_product_performance_dashboard.png" alt="Product Performance Dashboard" width="100%"> </td> <td align="center"> <strong>04 · Return Analysis</strong><br><br> <img src="https://raw.githubusercontent.com/SamiUllah568/Retail-Sales-Customer-Analytics-Power-BI-/main/screenshots/04_return_analysis_dashboard.png" alt="Return Analysis Dashboard" width="100%"> </td> </tr>
 
----
+<tr> <td colspan="2" align="center"> <strong>05 · Store & Regional Performance</strong><br><br> <img src="https://raw.githubusercontent.com/SamiUllah568/Retail-Sales-Customer-Analytics-Power-BI-/main/screenshots/05_store_regional_performance_dashboard.png" alt="Store and Regional Performance Dashboard" width="85%"> </td> </tr> </table>
 
-## 🏠 3. Bengaluru House Price Prediction
+A 5-dashboard Power BI suite analyzing retail performance across the **USA, Canada, and Mexico**, built on a star-schema model with 6 relational tables.
 
-🔗 **Repository:** https://github.com/SamiUllah568/Bengaluru-House-Price-prediction
+**Key analysis**
+- Sales performance, customer analytics, and product performance
+- Return analysis and store & regional performance
+- DAX measures for profit margin, return rate, and time intelligence
+- Interactive slicers with country, date, product, and brand filtering, plus drill-down
 
-- Performed data cleaning and feature engineering.
-- Compared multiple regression algorithms.
-- Optimized XGBoost and Ridge Regression models.
-- Achieved high prediction accuracy using feature selection and hyperparameter tuning.
+**Insight:** a small group of products and brands accounted for a disproportionate share of returns.
 
-**Tools:** Python • Pandas • Scikit-learn • XGBoost • Matplotlib
+**Tools:** `Power BI` `DAX` `Power Query` `Star Schema`
 
----
-
-## ✈️ 4. Flight Fare Prediction
-
-🔗 **Repository:** https://github.com/SamiUllah568/Flight-Fare-Prediction-
-
-- Built a machine learning regression model to predict airline ticket prices.
-- Performed feature engineering and exploratory data analysis.
-- Optimized Random Forest using GridSearchCV.
-- Evaluated model performance using MAE, RMSE, and R² Score.
-
-**Tools:** Python • Pandas • Scikit-learn • Random Forest • Seaborn
+🔗 [**GitHub Repository**](https://github.com/SamiUllah568/Retail-Sales-Customer-Analytics-Power-BI-)
 
 ---
 
-# 🛠 Technical Skills
+### 📊 2. Superstore Sales Dashboard
 
-### 📊 Data Analysis
-- Data Cleaning
-- Data Transformation
-- Exploratory Data Analysis (EDA)
-- Data Validation
-- KPI Reporting
-- Business Reporting
-- Data Visualization
+**Microsoft Excel**
 
-### 🗄 SQL
-- PostgreSQL
-- Joins
-- CTEs
-- Window Functions
-- Aggregate Functions
-- CASE
-- COALESCE
-- Subqueries
+<img src="https://raw.githubusercontent.com/SamiUllah568/superstore-sales-dashboard-excel/main/Superstore%20Sales%20Dashboard.png" alt="Superstore Sales Dashboard in Excel" width="100%" />
+An interactive Excel dashboard built on the Kaggle Superstore dataset, from raw data cleaning to KPI reporting.
 
-### 📈 Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- XLOOKUP
-- INDEX-MATCH
-- Dashboards
-- Slicers
-- Conditional Formatting
+**Key analysis**
+- Data cleaning and transformation
+- KPIs: Total Sales, Total Customers, Average Delivery Days
+- Analysis by region, category, customer segment, and shipping mode
+- Pivot tables, pivot charts, and slicers
 
-### 🐍 Programming
-- Python
-- Pandas
-- NumPy
+**Tools:** `Excel` `Pivot Tables` `Slicers`
 
-### 🛠 Tools
-- Microsoft Excel
-- PostgreSQL
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+🔗 [**GitHub Repository**](https://github.com/SamiUllah568/superstore-sales-dashboard-excel)
 
 ---
 
-# 📜 Certifications
+### 📚 3. Online Book Store Sales Analysis
 
-- ✅ Data Analyst Course — WsCube Tech
-- ✅ Advanced SQL for Data Analytics — WsCube Tech
+**PostgreSQL · SQL**
 
----
+<img src="https://raw.githubusercontent.com/SamiUllah568/Online-Book-Store-Sales-Analysis-SQL-/main/ERD.png" alt="Online Book Store database ERD" width="100%" />
 
-# 📈 GitHub Stats
+A relational database (Books, Customers, Orders) with primary/foreign key relationships and 20+ SQL queries answering business questions.
 
-<p align="center">
+**Key analysis**
+- Sales, revenue, inventory, and top-selling books
+- Customer spending and genre sales
+- JOINs, GROUP BY, HAVING, subqueries, CTEs, window functions, CASE, COALESCE
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samiullah568&theme=dark">
+**Tools:** `PostgreSQL` `SQL`
 
-<br>
+🔗 [**GitHub Repository**](https://github.com/SamiUllah568/Online-Book-Store-Sales-Analysis-SQL-)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiullah568&layout=compact&theme=vision-friendly-dark">
+<br />
 
-</p>
+> **Earlier work (Machine Learning):** [Bengaluru House Price Prediction](https://github.com/SamiUllah568/Bengaluru-House-Price-prediction) · [Flight Fare Prediction](https://github.com/SamiUllah568/Flight-Fare-Prediction-)
 
----
+<br />
 
-# 🌍 Connect With Me
+## 🔄 My Analytics Workflow
 
-<a href="https://www.linkedin.com/in/sami-ullah-b10b93300/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+| 1 | 2 | 3 | 4 |
+|:---:|:---:|:---:|:---:|
+| 🗃️ **Raw Data** | 🧹 **Data Cleaning** | ✅ **Data Validation** | 🗄️ **SQL Analysis** |
+| **⬇️** | **⬇️** | **⬇️** | **⬇️** |
+| 🧩 **Data Modeling** | 📈 **Power BI / Excel** | 📊 **Dashboard** | 💡 **Business Insights** |
 
-<a href="https://github.com/SamiUllah568">
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
-</a>
+<br />
 
-<a href="https://kaggle.com/samikhan25">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle" alt="Kaggle">
-</a>
+## 💼 Experience
 
-<a href="mailto:sk2579784@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail">
-</a>
+**Customer Service Representative** — Call Center &nbsp;·&nbsp; 1.6 years
+- Managed customer records, data entry, verification, and documentation
+- Handled reporting, problem solving, and customer communication with attention to detail
 
-<a href="https://samiullah568.pythonanywhere.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white" alt="Portfolio">
-</a>
+**Data Entry Operator** — Travel Agency &nbsp;·&nbsp; `[ADD DURATION]`
+- Maintained customer booking information and digital records with a focus on data accuracy and quality
+- Managed large datasets and handled confidential information
 
+<br />
 
----
+## 🎓 Education
 
-> **"Turning raw data into actionable insights through analytics, visualization, and machine learning."**
+- **BS Information Technology** — Government College University Faisalabad (GCUF), 2020 – 2024
+- **Intermediate in Computer Science (ICS)** — Gabriel College, Mandi Bahauddin, 2018 – 2020
+
+<br />
+
+## 📜 Certifications
+
+![Data Analyst Course](https://img.shields.io/badge/Data_Analyst_Course-WsCube_Tech-1f6feb?style=for-the-badge)
+![Advanced SQL](https://img.shields.io/badge/Advanced_SQL_for_Data_Analytics-WsCube_Tech-8957e5?style=for-the-badge)
+
+<br />
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=SamiUllah568&theme=dark&hide_border=true&background=0d1117&ring=1f6feb&fire=8957e5&currStreakLabel=00b8d9" alt="GitHub streak" width="100%" style="max-width:500px" />
+
+<img src="https://ghchart.rshah.org/1f6feb/SamiUllah568" alt="GitHub contribution chart" width="100%" />
+
+</div>
+
+<br />
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://samiullah568.pythonanywhere.com"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/sami-ullah-b10b93300/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/SamiUllah568"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://kaggle.com/samikhan25"><img src="https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="mailto:sk2579784@gmail.com"><img src="https://img.shields.io/badge/Email-8957e5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br /><br />
+
+*Turning raw data into meaningful insights through SQL, Excel, Power BI, and Python.*
+
+</div>
