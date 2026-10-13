@@ -4,10 +4,11 @@
      Temporary fallback until then (replace the img line below with this one):
      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Sami%20Ullah&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst&descAlignY=60&descSize=20" alt="Sami Ullah - Data Analyst" width="100%" />
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Sami%20Ullah&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Excel%20%7C%20Power%20BI%20%7C%20Python&descAlignY=60&descSize=18" alt="Sami Ullah - Data Analyst banner" width="100%" />
+<div align="center">
+  <img src="github-cover.png" alt="Sami Ullah - Data Analyst" width="100%">
+</div>
 
-
-*Turning raw data into actionable business insights through SQL, Excel, and Power BI.*
+<br>
 
 <a href="https://samiullah02.pythonanywhere.com">
   <img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
