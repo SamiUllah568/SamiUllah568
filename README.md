@@ -66,7 +66,46 @@
 
 ## 💼 Featured Projects
 
-### 📈 1. Retail Analytics Dashboard Suite
+### 🏥 4. Hospital Management Analytics Dashboard Suite
+
+**PostgreSQL · SQL · Power BI · DAX · Data Modeling**
+
+An end-to-end hospital analytics project analyzing patients, doctors, appointments, treatments, bills, and hospital reports through SQL and interactive Power BI dashboards.
+
+<table>
+<tr>
+<td align="center"><strong>01 · Main Dashboard</strong><br/><br/><img src="https://raw.githubusercontent.com/SamiUllah568/Hospital-Management-Analytics-SQL-PowerBI/main/Screenshots/Main.png" alt="Hospital Main Dashboard" width="100%"/></td>
+<td align="center"><strong>02 · Patient Dashboard</strong><br/><br/><img src="https://raw.githubusercontent.com/SamiUllah568/Hospital-Management-Analytics-SQL-PowerBI/main/Screenshots/Patient%20Dashboard.png" alt="Patient Dashboard" width="100%"/></td>
+</tr>
+<tr>
+<td align="center"><strong>03 · Doctor Dashboard</strong><br/><br/><img src="https://raw.githubusercontent.com/SamiUllah568/Hospital-Management-Analytics-SQL-PowerBI/main/Screenshots/Doctor%20Dashboard.png" alt="Doctor Dashboard" width="100%"/></td>
+<td align="center"><strong>04 · Appointments Dashboard</strong><br/><br/><img src="https://raw.githubusercontent.com/SamiUllah568/Hospital-Management-Analytics-SQL-PowerBI/main/Screenshots/Appointments%20Dashboard.png" alt="Appointments Dashboard" width="100%"/></td>
+</tr>
+<tr>
+<td align="center"><strong>05 · Treatment Dashboard</strong><br/><br/><img src="https://raw.githubusercontent.com/SamiUllah568/Hospital-Management-Analytics-SQL-PowerBI/main/Screenshots/Treatment%20dashboard.png" alt="Treatment Dashboard" width="100%"/></td>
+<td align="center"><strong>06 · Bills Dashboard</strong><br/><br/><img src="https://raw.githubusercontent.com/SamiUllah568/Hospital-Management-Analytics-SQL-PowerBI/main/Screenshots/Bills%20Dashboard.png" alt="Bills Dashboard" width="100%"/></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><strong>07 · Hospital Reports</strong><br/><br/><img src="https://raw.githubusercontent.com/SamiUllah568/Hospital-Management-Analytics-SQL-PowerBI/main/Screenshots/Reports.png" alt="Hospital Reports Dashboard" width="85%"/></td>
+</tr>
+</table>
+
+**Key analysis**
+- Patient demographics and patient records
+- Doctor information and performance
+- Appointment trends and scheduling
+- Treatment analysis and hospital services
+- Billing and financial reporting
+- Hospital reports and key performance indicators
+- SQL-based analysis to support data-driven decisions
+
+**Tools:** `PostgreSQL` `SQL` `Power BI` `DAX` `Data Analysis`
+
+🔗 [**GitHub Repository**](https://github.com/SamiUllah568/Hospital-Management-Analytics-SQL-PowerBI)
+
+
+
+### 📈 2. Retail Analytics Dashboard Suite
 
 **Power BI · DAX · Power Query · Data Modeling**
 
@@ -92,7 +131,7 @@ A 5-dashboard Power BI suite analyzing retail performance across the **USA, Cana
 
 ---
 
-### 📊 2. Superstore Sales Dashboard
+### 📊 3. Superstore Sales Dashboard
 
 **Microsoft Excel**
 
@@ -111,7 +150,7 @@ An interactive Excel dashboard built on the Kaggle Superstore dataset, from raw 
 
 ---
 
-### 📚 3. Online Book Store Sales Analysis
+### 📚 4. Online Book Store Sales Analysis
 
 **PostgreSQL · SQL**
 
